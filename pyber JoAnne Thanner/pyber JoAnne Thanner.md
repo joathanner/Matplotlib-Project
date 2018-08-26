@@ -1,6 +1,19 @@
 
 
 ```python
+Analysis:
+
+Urban areas had the highest number of drivers by far, followed by suburban and then rural, with the least number of drivers per city.
+
+Urban cities have the highest percentage of total fares at 62.97%, followed by Suburban with 30.5%, and then rural with the remaining percentage of 6.8%.
+
+It makes sense that the more people in a given location, the more rides were given. Cities hat a total of almost 70% of the market share.
+
+The best growth opportunities are in the city.
+```
+
+
+```python
 %matplotlib inline
 
 # Dependencies and Setup
@@ -166,7 +179,7 @@ plt.show()
 ```
 
 
-![png](output_2_0.png)
+![png](output_3_0.png)
 
 
 
@@ -222,7 +235,7 @@ plt.show()
 ```
 
 
-![png](output_5_0.png)
+![png](output_6_0.png)
 
 
 
@@ -278,7 +291,7 @@ plt.show()
 ```
 
 
-![png](output_8_0.png)
+![png](output_9_0.png)
 
 
 # Show Figure
@@ -337,5 +350,5 @@ plt.show()
 ```
 
 
-![png](output_12_0.png)
+![png](output_13_0.png)
 
