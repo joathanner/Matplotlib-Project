@@ -1,2 +1,1 @@
-# The-Power-of-Plots
-Matplotlib Project
+# Matplotlib Project
